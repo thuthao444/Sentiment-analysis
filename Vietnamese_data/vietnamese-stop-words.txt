@@ -100,7 +100,6 @@ bắt đầu
 bắt đầu từ
 bằng
 bằng cứ
-bằng không
 bằng người
 bằng nhau
 bằng như
@@ -118,7 +117,6 @@ bỏ
 bỏ bà
 bỏ cha
 bỏ cuộc
-bỏ không
 bỏ lại
 bỏ mình
 bỏ mất
@@ -132,7 +130,6 @@ bỏ xa
 bỗng
 bỗng chốc
 bỗng dưng
-bỗng không
 bỗng nhiên
 bỗng nhưng
 bỗng thấy
@@ -279,7 +276,6 @@ chốc chốc
 chớ
 chớ chi
 chớ gì
-chớ không
 chớ kể
 chớ như
 chợt
@@ -290,8 +286,6 @@ chứ
 chứ ai
 chứ còn
 chứ gì
-chứ không
-chứ không phải
 chứ lại
 chứ lị
 chứ như
@@ -317,7 +311,6 @@ các
 các cậu
 cách
 cách bức
-cách không
 cách nhau
 cách đều
 cái
@@ -535,7 +528,6 @@ gồm
 hay
 hay biết
 hay hay
-hay không
 hay là
 hay làm
 hay nhỉ
@@ -576,14 +568,12 @@ hỏi xin
 hỗ trợ
 khi
 khi khác
-khi không
 khi nào
 khi nên
 khi trước
 khiến
 khoảng
 khoảng cách
-khoảng không
 khá
 khá tốt
 khác
@@ -605,35 +595,6 @@ khó nghĩ
 khó nói
 khó thấy
 khó tránh
-không
-không ai
-không bao giờ
-không bao lâu
-không biết
-không bán
-không chỉ
-không còn
-không có
-không có gì
-không cùng
-không cần
-không cứ
-không dùng
-không gì
-không hay
-không khỏi
-không kể
-không ngoài
-không nhận
-không những
-không phải
-không phải không
-không thể
-không tính
-không điều kiện
-không được
-không đầy
-không để
 khẳng định
 khỏi
 khỏi nói
@@ -697,7 +658,6 @@ lên số
 lên xuống
 lên đến
 lòng
-lòng không
 lúc
 lúc khác
 lúc lâu
@@ -768,7 +728,6 @@ mang về
 muốn
 mà
 mà cả
-mà không
 mà lại
 mà thôi
 mà vẫn
@@ -826,7 +785,6 @@ ngay từ
 nghe
 nghe chừng
 nghe hiểu
-nghe không
 nghe lại
 nghe nhìn
 nghe như
@@ -888,7 +846,6 @@ ngọn nguồn
 ngọt
 ngồi
 ngồi bệt
-ngồi không
 ngồi sau
 ngồi trệt
 ngộ nhỡ
@@ -924,7 +881,6 @@ nhón nhén
 như
 như ai
 như chơi
-như không
 như là
 như nhau
 như quả
@@ -1051,7 +1007,6 @@ nặng về
 nếu
 nếu có
 nếu cần
-nếu không
 nếu mà
 nếu như
 nếu thế
@@ -1091,7 +1046,6 @@ phải cách
 phải cái
 phải giờ
 phải khi
-phải không
 phải lại
 phải lời
 phải người
@@ -1268,7 +1222,6 @@ than ôi
 thanh
 thanh ba
 thanh chuyển
-thanh không
 thanh thanh
 thanh tính
 thanh điều kiện
@@ -1651,7 +1604,6 @@ vậy ra
 vậy thì
 vậy ư
 về
-về không
 về nước
 về phần
 về sau
@@ -1802,7 +1754,6 @@ yêu cầu
 đây đó
 đã
 đã hay
-đã không
 đã là
 đã lâu
 đã thế
@@ -1880,7 +1831,6 @@ yêu cầu
 để
 để cho
 để giống
-để không
 để lòng
 để lại
 để mà
